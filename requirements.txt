@@ -24,7 +24,7 @@ lightblue-api==1.0.0
 lxml==4.2.5
 nose==1.3.7
 num2words==0.5.7
-numpy==1.15.1
+numpy==1.22.0
 nwdiag==1.0.4
 olefile==0.46
 paramiko==2.4.2
