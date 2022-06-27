@@ -39,7 +39,7 @@ PyGObject==3.30.5
 PyNaCl==1.2.1
 pysftp==0.2.8
 PySocks==1.6.8
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.20.0
 rpmfile==0.1.5rc1
 seqdiag==0.9.5
